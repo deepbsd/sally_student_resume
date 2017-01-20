@@ -1,0 +1,13 @@
+img {
+	float:left;
+	height: 150px;
+}
+
+.feedback {
+	font-size: 10pt;
+}
+
+.contact {
+	margin: auto;
+	font-size: 13pt;
+}
